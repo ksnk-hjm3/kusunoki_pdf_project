@@ -1,0 +1,681 @@
+﻿company_name,official_url,recruit_page,medical_keywords,medical_keyword_count,medical_domains,medical_domain_scores,total_medical_score
+PHC,https://www.phchd.com/jp,https://www.phchd.com/jp/job,"医療,患者,臨床,介護,ヘルスケア,医療機器,診断,検査",8,"医療機器メーカー,介護・福祉","{'医療機器メーカー': 1, '介護・福祉': 1}",117
+ウィーメックス,https://www.wemex.com/,,,0,,{},12
+Ubie,https://ubie.life/,,,0,,{},12
+メドレー,https://www.medley.jp/,https://www.medley.jp/team/,"医療,オンライン診療",2,,{},30
+エムスリー,https://corporate.m3.com/,,,0,,{},12
+オリンパス,https://www.olympus.co.jp/,,,0,,{},12
+富士フイルムメディカル,https://www.fujifilm.com/jp/ja/healthcare,https://www.fujifilm.com/jp/ja/about/careers,"医療,臨床,ヘルスケア,診断,検査,画像診断",6,,{},81
+GEヘルスケア,https://www.gehealthcare.co.jp/,https://www.gehealthcare.co.jp/company/recruit,,1,,{},18
+シーメンスヘルスケア,https://www.siemens-healthineers.com/jp,https://www.siemens-healthineers.com/jp/careers,"医療,ヘルスケア,診断,画像診断",4,,{},63
+日本光電,https://www.nihonkohden.co.jp/,https://www.nihonkohden.co.jp/ja/recruit.html,"医療,医療機器",2,医療機器メーカー,{'医療機器メーカー': 1},36
+テルモ,https://www.terumo.co.jp/,https://www.terumo.co.jp/careers,,0,,{},12
+島津製作所,https://www.shimadzu.co.jp/,,,0,,{},12
+コニカミノルタ,https://www.konicaminolta.com/jp-ja/,,,0,,{},12
+パナソニックヘルスケア,https://holdings.panasonic/jp/,,,1,,{},18
+ホシザキ,https://www.hoshizaki.co.jp/,https://www.hoshizaki.co.jp/saiyou/,,0,,{},12
+フクダ電子,https://www.fukuda.co.jp/,https://www.fukuda.co.jp/recruit/index.html,"医療,患者,医療機器",3,医療機器メーカー,{'医療機器メーカー': 1},42
+アトムメディカル,https://www.atommedical.co.jp/,,,1,,{},18
+ニプロ,https://www.nipro.co.jp/,https://www.nipro.co.jp/employ_entrance/,"医療,医療機器",2,医療機器メーカー,{'医療機器メーカー': 1},36
+オムロンヘルスケア,https://www.healthcare.omron.co.jp/,,,1,,{},18
+フィリップス,https://www.philips.co.jp/,https://www.careers.philips.com/jp/ja,"医療,医療機器",2,医療機器メーカー,{'医療機器メーカー': 1},36
+メディキット,https://www.medikit.co.jp/,,,0,,{},12
+朝日インテック,https://www.asahi-intecc.co.jp/,https://www.asahi-intecc.co.jp/recruit/,"医療,臨床,ヘルスケア,医療機器,検査",5,医療機器メーカー,{'医療機器メーカー': 1},81
+日本メドトロニック,https://www.medtronic.com/jp-ja/index.html,https://www.medtronic.com/jp-ja/our-company/careers.html,"医療,患者,ヘルスケア",3,,{},36
+ボストン・サイエンティフィック,https://www.bostonscientific.com/jp-JP/home.html,https://www.bostonscientific.com/jp-JP/careers.html,"医療,患者,医療機器",3,医療機器メーカー,{'医療機器メーカー': 1},42
+ジョンソン・エンド・ジョンソン メディカル,https://www.jnj.co.jp/,https://www.careers.jnj.com/locations/asia-pacific/japan#earlycareer,,1,,{},18
+泉工医科工業,https://www.senko.co.jp/,,,0,,{},12
+タカラベルモント,https://www.takarabelmont.co.jp/,https://www.takarabelmont.co.jp/main/recruit/,"医療,医療機器",2,医療機器メーカー,{'医療機器メーカー': 1},36
+ミナト医科学,https://www.minato-med.co.jp/,https://www.minato-med.co.jp/recruit/new-graduate/,"医療,患者,医療機器",3,医療機器メーカー,{'医療機器メーカー': 1},42
+ケイセイ医科工業,https://www.keisei-mk.co.jp/,,,0,,{},12
+瑞穂医科工業,https://www.mizuho.co.jp/,https://www.mizuho.co.jp/recruit,"医療,医療機器",2,医療機器メーカー,{'医療機器メーカー': 1},36
+カイインダストリーズ,https://www.kai-group.com/,https://www.kai-group.com/global/recruit/,,0,,{},12
+シスメックス,https://www.sysmex.co.jp/,,,0,,{},12
+アズワン,https://www.as-1.co.jp/,https://www.as-1.co.jp/recruit/,"医療,看護",2,,{},30
+サクラ精機,https://www.sakuraseiki.com/,,,0,,{},12
+日本ストライカー,https://www.stryker.com/jp/ja/index.html,http://careers.stryker.com/,,0,,{},12
+平和物産,https://www.heiwa-bussan.co.jp/,https://www.heiwa-bussan.co.jp/recruit/,"医療,医療機器",2,医療機器メーカー,{'医療機器メーカー': 1},36
+日本エア・リキード,https://industry.airliquide.jp/,,,0,,{},12
+日本ベクトン・ディッキンソン,https://www.bd.com/ja-jp,,,0,,{},12
+日本クレア,https://www.crea.co.jp/,,,0,,{},12
+日本コヴィディエン,https://www.medtronic.com/jp-ja/index.html,https://www.medtronic.com/jp-ja/our-company/careers.html,"医療,患者,ヘルスケア",3,,{},36
+日本アルコン,https://www.alcon.co.jp/,https://www.alcon.co.jp/jp-JP/careers/,,0,,{},12
+日本ケミカルリサーチ,https://www.ncr.co.jp/,,,0,,{},12
+日本ライフライン,https://www.jll.co.jp/,,,0,,{},12
+日本シグマックス,https://www.sigmax.co.jp/,,,0,,{},12
+日本バイリーン,https://www.vilene.co.jp/,https://recruit.vilene.co.jp/,,0,,{},12
+日本メディカルプロダクツ,https://www.nmp.co.jp/,,,1,,{},18
+日本医療機器開発機構,https://www.jmdc.co.jp/,https://www.jmdc.co.jp/recruit/,"医療,ヘルスケア,検査,医療データ",4,医療データ・AI,{'医療データ・AI': 1},72
+日本医療機器テクノロジー,https://www.jmte.co.jp/,,,1,,{},18
+日本医療機器販売協会,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器産業連合会,https://www.jfmda.gr.jp/,,,1,,{},18
+日本医療機器総合研究所,https://www.jmri.co.jp/,,,1,,{},18
+日本医療機器センター,https://www.jmac.or.jp/,,,1,,{},18
+日本医療機器協会,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器工業会,https://www.jfmda.gr.jp/,,,1,,{},18
+日本医療機器商工会,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術研究所,https://www.jmtr.co.jp/,,,1,,{},18
+日本医療機器技術協会,https://www.jmta.or.jp/,,,1,,{},18
+日本医療機器技術センター,https://www.jmct.or.jp/,,,1,,{},18
+日本医療機器技術開発機構,https://www.jmdc.co.jp/,https://www.jmdc.co.jp/recruit/,"医療,ヘルスケア,検査,医療データ",4,医療データ・AI,{'医療データ・AI': 1},72
+日本医療機器技術振興協会,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興財団,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興センター,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興機構,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興会,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興協議会,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興連盟,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興団体,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興連合,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興連絡会,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興連絡協議会,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興連絡機構,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興連絡財団,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興連絡センター,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興連絡協会,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興連絡連盟,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興連絡団体,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興連絡連合,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興連絡連絡会,https://www.jmda.or.jp/,,,1,,{},18
+日本医療機器技術振興連絡連絡協議会,https://www.jmda.or.jp/,,,1,,{},18
+MICIN,https://micin.jp/,https://recruit.micin.jp,"医療,患者,臨床,医療機器,診断,オンライン診療,医療データ",7,"医療機器メーカー,医療データ・AI","{'医療機器メーカー': 1, '医療データ・AI': 1}",108
+メディカルノート,https://medicalnote.co.jp/,,,1,,{},18
+カケハシ,https://kakehashi.life/,,,0,,{},12
+メディカルフォース,https://medical-force.com/,,,1,,{},18
+ドクターメイト,https://doctormate.co.jp/,https://doctormate.co.jp/seminar/seminar-19840,"医療,看護,介護,医療情報,オンライン診療",5,介護・福祉,{'介護・福祉': 1},81
+Ubie,https://ubie.life/,,,0,,{},12
+メドレー,https://www.medley.jp/,https://www.medley.jp/team/,"医療,オンライン診療",2,,{},30
+エムスリーデジタルコミュニケーションズ,https://www.m3dc.co.jp/,https://open.talentio.com/r/1/c/m3dc/homes/3519,,0,,{},12
+メディカルデータビジョン,https://www.mdv.co.jp/,https://www.mdv.co.jp/recruit/,"医療,患者,看護,オンライン診療",4,,{},63
+JMDC,https://www.jmdc.co.jp/,https://www.jmdc.co.jp/recruit/,"医療,ヘルスケア,検査,医療データ",4,医療データ・AI,{'医療データ・AI': 1},72
+レイヤード,https://layered.inc/,https://layered.inc/recruit/,"医療,患者,介護,医療SaaS",4,介護・福祉,{'介護・福祉': 1},72
+アルム,https://www.allm.net/,https://recruit.allm.net/,"医療,介護,ヘルスケア,診断",4,介護・福祉,{'介護・福祉': 1},72
+CureApp,https://cureapp.co.jp/,,,0,,{},12
+Welby,https://welby.jp/,,,0,,{},12
+メディカルAIプラットフォーム,https://www.medicalaiplatform.com/,,,1,,{},18
+メディカルシステムネットワーク,https://www.msnw.co.jp/,https://www.msnw.co.jp/recruit/,,1,,{},18
+ドクターズプライム,https://drsprime.com/,,,0,,{},12
+メディカルチェックスタジオ,https://medicalcheckstudio.jp/,,,1,,{},18
+メディカル・ケア・サービス,https://www.mcsg.co.jp/,https://www.mcsg.co.jp/recruit/,介護,1,介護・福祉,{'介護・福祉': 1},30
+メディカルリソース,https://www.medicalresource.co.jp/,,,1,,{},18
+メディカルコンシェルジュ,https://www.concier.com/,https://www.concier.com/recruit,介護,1,介護・福祉,{'介護・福祉': 1},30
+メディカルサポート,https://www.medical-support.co.jp/,https://medical-support.co.jp/recruit/,"医療,患者,看護",3,,{},36
+メディカルリンク,https://www.medical-link.co.jp/,https://medical-link.co.jp/recruiting/,"医療,臨床,看護,検査",4,,{},63
+メディカルアーク,https://www.medical-ark.co.jp/,https://www.medical-ark.co.jp/igakubuyobiko-koshisaiyou2018/,検査,1,,{},24
+メディカルシステム研究所,https://www.msk.co.jp/,https://www.msk.co.jp/recruit/,,1,,{},18
+メディカルアシスト,https://www.medicalassist.co.jp/,,,1,,{},18
+メディカルアドバンス,https://www.medicaladvance.co.jp/,,,1,,{},18
+メディカルサーブ,https://www.medicalserve.co.jp/,,,1,,{},18
+メディカルネット,https://www.medi-net.co.jp/,,,1,,{},18
+メディカルパートナー,https://www.medical-partner.co.jp/,,,1,,{},18
+メディカルクリエイト,https://www.medicalcreate.co.jp/,,,1,,{},18
+メディカルブレイン,https://www.medicalbrain.co.jp/,,,1,,{},18
+メディカルクラウド,https://www.medicalcloud.co.jp/,,,1,,{},18
+メディカルデザイン,https://www.medicaldesign.co.jp/,,,1,,{},18
+メディカルエージェンシー,https://www.medicalagency.co.jp/,,,1,,{},18
+メディカルアライアンス,https://www.medical-alliance.co.jp/,,,1,,{},18
+メディカルソリューションズ,https://www.medicalsolutions.co.jp/,,,1,,{},18
+メディカルサイエンス,https://www.medicalscience.co.jp/,,,1,,{},18
+メディカルテクノロジーズ,https://www.medicaltech.co.jp/,https://recruit.vectorinc.co.jp/,,1,,{},18
+メディカルプラットフォーム,https://www.medicalplatform.co.jp/,,,1,,{},18
+メディカルアプリケーションズ,https://www.medicalapps.co.jp/,,,1,,{},18
+メディカルデジタル,https://www.medicaldigital.co.jp/,,,1,,{},18
+メディカルイノベーション,https://www.medicalinnovation.co.jp/,,,1,,{},18
+メディカルアナリティクス,https://www.medicalanalytics.co.jp/,,,1,,{},18
+メディカルデータラボ,https://www.medicaldatalab.co.jp/,,,1,,{},18
+メディカルAI研究所,https://www.medicalai.co.jp/,,,1,,{},18
+メディカルDX研究所,https://www.medicaldx.co.jp/,,,1,,{},18
+メディカルクラウドサービス,https://www.medicalcloudservice.co.jp/,,,1,,{},18
+メディカルデータサービス,https://www.medicaldataservice.co.jp/,,,1,,{},18
+メディカルソフトウェア,https://www.medicalsoftware.co.jp/,,,1,,{},18
+メディカルアプリ研究所,https://www.medicalapp.co.jp/,,,1,,{},18
+メディカルデータリンク,https://www.medicaldatalink.co.jp/,,,1,,{},18
+メディカルデータソリューション,https://www.medicaldatasolutions.co.jp/,,,1,,{},18
+メディカルデータテクノロジー,https://www.medicaldatatech.co.jp/,,,1,,{},18
+メディカルデータプラットフォーム,https://www.medicaldatapf.co.jp/,,,1,,{},18
+メディカルデータエンジン,https://www.medicaldataengine.co.jp/,,,1,,{},18
+メディカルデータアナリティクス,https://www.medicaldataanalytics.co.jp/,,,1,,{},18
+メディカルデータAI,https://www.medicaldataai.co.jp/,,,1,,{},18
+メディカルデータクラウド,https://www.medicaldatacloud.co.jp/,,,1,,{},18
+メディカルデータラボラトリー,https://www.medicaldatalab.jp/,,,1,,{},18
+メディカルデータバンク,https://www.medicaldatabank.co.jp/,,,1,,{},18
+メディカルデータセンター,https://www.medicaldatacenter.co.jp/,,,1,,{},18
+メディカルデータファーム,https://www.medicaldatafarm.co.jp/,,,1,,{},18
+メディカルデータリンクス,https://www.medicaldatalinks.co.jp/,,,1,,{},18
+メディカルデータプロ,https://www.medicaldatapro.co.jp/,,,1,,{},18
+メディカルデータワークス,https://www.medicaldataworks.co.jp/,,,1,,{},18
+メディカルデータエージェンシー,https://www.medicaldataagency.co.jp/,,,1,,{},18
+メディカルデータマーケティング,https://www.medicaldatamarketing.co.jp/,,,1,,{},18
+メディカルデータコンサルティング,https://www.medicaldataconsulting.co.jp/,,,1,,{},18
+メディカルデータラボテック,https://www.medicaldatalabtech.co.jp/,,,1,,{},18
+メディカルデータアーキテクト,https://www.medicaldataarchitect.co.jp/,,,1,,{},18
+メディカルデータエキスパート,https://www.medicaldataexpert.co.jp/,,,1,,{},18
+メディカルデータソリューションズジャパン,https://www.medicaldatasolutions.jp/,,,1,,{},18
+メディカルデータAIソリューション,https://www.medicaldataai-solutions.co.jp/,,,1,,{},18
+メディカルデータDXソリューション,https://www.medicaldatadx.co.jp/,,,1,,{},18
+メディカルデータクラウドソリューション,https://www.medicaldatacloudsolutions.co.jp/,,,1,,{},18
+メディカルデータAI研究センター,https://www.medicaldataai-center.co.jp/,,,1,,{},18
+メディカルデータDX研究センター,https://www.medicaldatadx-center.co.jp/,,,1,,{},18
+メディカルデータAIプラットフォーム,https://www.medicaldataai-platform.co.jp/,,,1,,{},18
+メディカルデータDXプラットフォーム,https://www.medicaldatadx-platform.co.jp/,,,1,,{},18
+メディカルデータAIラボ,https://www.medicaldataai-lab.co.jp/,,,1,,{},18
+メディカルデータDXラボ,https://www.medicaldatadx-lab.co.jp/,,,1,,{},18
+メディカルデータAIソフトウェア,https://www.medicaldataai-soft.co.jp/,,,1,,{},18
+メディカルデータDXソフトウェア,https://www.medicaldatadx-soft.co.jp/,,,1,,{},18
+メディカルデータAIクラウド,https://www.medicaldataai-cloud.co.jp/,,,1,,{},18
+メディカルデータDXクラウド,https://www.medicaldatadx-cloud.co.jp/,,,1,,{},18
+メディカルデータAIサービス,https://www.medicaldataai-service.co.jp/,,,1,,{},18
+メディカルデータDXサービス,https://www.medicaldatadx-service.co.jp/,,,1,,{},18
+メディカルデータAIエンジニアリング,https://www.medicaldataai-eng.co.jp/,,,1,,{},18
+メディカルデータDXエンジニアリング,https://www.medicaldatadx-eng.co.jp/,,,1,,{},18
+メディカルデータAIソリューションズ,https://www.medicaldataai-solutions.jp/,,,1,,{},18
+メディカルデータDXソリューションズ,https://www.medicaldatadx-solutions.jp/,,,1,,{},18
+ベネッセスタイルケア,https://www.benesse-style-care.co.jp/,https://saiyo.benesse-style-care.co.jp/,,1,,{},18
+ニチイ学館,https://www.nichiigakkan.co.jp/,https://www.nichiigakkan.co.jp/recruit/,"医療,介護,ヘルスケア",3,介護・福祉,{'介護・福祉': 1},42
+ツクイ,https://www.tsukui.net/,https://www.tsukui.net/recruit/,"看護,介護,診断",3,介護・福祉,{'介護・福祉': 1},42
+SOMPOケア,https://www.sompocare.com/,https://recruit.sompocare.com/,"看護,介護",2,介護・福祉,{'介護・福祉': 1},36
+パナソニックエイジフリー,https://panasonic.co.jp/ls/paf/,,,0,,{},12
+ケア21,https://www.care21.co.jp/,,,1,,{},18
+やさしい手,https://www.yasashiite.com/,https://www.yasashiite.com/#contents_05,"看護,介護",2,介護・福祉,{'介護・福祉': 1},36
+セントケア,https://www.saint-care.com/,https://www.saint-care.com/recruit/select.html,,1,,{},18
+アサヒサンクリーン,https://www.asahiclean.com/,,,0,,{},12
+日本介護福祉グループ,https://www.nihonkaigo.co.jp/,,,1,,{},18
+ニチイケアパレス,https://www.nichiicarepalace.co.jp/,,,1,,{},18
+ニチイホーム,https://www.nichii-home.jp/,,,0,,{},12
+チャームケア,https://www.charmcc.jp/,https://recruit.charmcc.jp/,介護,1,介護・福祉,{'介護・福祉': 1},30
+木下の介護,https://www.kinoshita-kaigo.co.jp/,https://www.kinoshita-kaigo.co.jp/recruit/,介護,1,介護・福祉,{'介護・福祉': 1},30
+ヒューマンライフケア,https://human-lifecare.jp/,javascript:void(0);,,1,,{},18
+ALSOK介護,https://www.alsok-kaigo.jp/,,,1,,{},18
+SOMPOホールディングス介護事業,https://www.sompocare.com/,https://recruit.sompocare.com/,"看護,介護",2,介護・福祉,{'介護・福祉': 1},36
+ベストライフ,https://www.bestlife.jp/,https://bestlife-job.jp/?lk=bltop160628,"看護,介護",2,介護・福祉,{'介護・福祉': 1},36
+ベストケア,https://www.bestcare.co.jp/,,,1,,{},18
+ベストリハ,https://bestreha.com/,https://bestreha.com/recruit/,"医療,看護,介護",3,介護・福祉,{'介護・福祉': 1},42
+ベストライフ東日本,https://www.bestlife-east.jp/,,,0,,{},12
+ベストライフ西日本,https://www.bestlife-west.jp/,,,0,,{},12
+ベストケア・パートナーズ,https://www.bestcare-partners.jp/,,,1,,{},18
+ベストケアサービス,https://www.bestcare-service.jp/,,,1,,{},18
+ベストケアリンク,https://www.bestcare-link.jp/,,,1,,{},18
+ベストケアネット,https://www.bestcare-net.jp/,,,1,,{},18
+ベストケアプロジェクト,https://www.bestcare-project.jp/,,,1,,{},18
+ベストケアコミュニティ,https://www.bestcare-community.jp/,,,1,,{},18
+ベストケアライフ,https://www.bestcare-life.jp/,,,1,,{},18
+ベストケアシステム,https://www.bestcare-system.jp/,,,1,,{},18
+ベストケアホールディングス,https://www.bestcare-hd.jp/,,,1,,{},18
+ベストケアソリューション,https://www.bestcare-solution.jp/,,,1,,{},18
+ベストケアマネジメント,https://www.bestcare-mgmt.jp/,,,1,,{},18
+ベストケアプランニング,https://www.bestcare-plan.jp/,,,1,,{},18
+ベストケアアシスト,https://www.bestcare-assist.jp/,,,1,,{},18
+ベストケアサポート,https://www.bestcare-support.jp/,,,1,,{},18
+ベストケアサービス東日本,https://www.bestcare-e.jp/,,,1,,{},18
+ベストケアサービス西日本,https://www.bestcare-w.jp/,,,1,,{},18
+ベストケアセンター,https://www.bestcare-center.jp/,,,1,,{},18
+ベストケアステーション,https://www.bestcare-station.jp/,,,1,,{},18
+ベストケアホーム,https://www.bestcare-home.jp/,,,1,,{},18
+ベストケアハウス,https://www.bestcare-house.jp/,,,1,,{},18
+ベストケアライフサポート,https://www.bestcare-lifesupport.jp/,,,1,,{},18
+ベストケア福祉サービス,https://www.bestcare-fukushi.jp/,,,1,,{},18
+ベストケア福祉センター,https://www.bestcare-fukushi-center.jp/,,,1,,{},18
+ベストケア福祉ネット,https://www.bestcare-fukushi-net.jp/,,,1,,{},18
+ベストケア福祉協会,https://www.bestcare-fukushi-kyokai.jp/,,,1,,{},18
+ベストケア福祉機構,https://www.bestcare-fukushi-kikou.jp/,,,1,,{},18
+ベストケア福祉研究所,https://www.bestcare-fukushi-lab.jp/,,,1,,{},18
+ベストケア福祉プラットフォーム,https://www.bestcare-fukushi-pf.jp/,,,1,,{},18
+ベストケア福祉ソリューション,https://www.bestcare-fukushi-solution.jp/,,,1,,{},18
+ベストケア福祉サービス東日本,https://www.bestcare-fukushi-e.jp/,,,1,,{},18
+ベストケア福祉サービス西日本,https://www.bestcare-fukushi-w.jp/,,,1,,{},18
+ベストケア福祉サポート,https://www.bestcare-fukushi-support.jp/,,,1,,{},18
+ベストケア福祉アシスト,https://www.bestcare-fukushi-assist.jp/,,,1,,{},18
+ベストケア福祉プランニング,https://www.bestcare-fukushi-plan.jp/,,,1,,{},18
+ベストケア福祉マネジメント,https://www.bestcare-fukushi-mgmt.jp/,,,1,,{},18
+ベストケア福祉コミュニティ,https://www.bestcare-fukushi-community.jp/,,,1,,{},18
+ベストケア福祉ネットワーク,https://www.bestcare-fukushi-network.jp/,,,1,,{},18
+ベストケア福祉ホールディングス,https://www.bestcare-fukushi-hd.jp/,,,1,,{},18
+ベストケア福祉システム,https://www.bestcare-fukushi-system.jp/,,,1,,{},18
+ベストケア福祉プロジェクト,https://www.bestcare-fukushi-project.jp/,,,1,,{},18
+ベストケア福祉リンク,https://www.bestcare-fukushi-link.jp/,,,1,,{},18
+ベストケア福祉ライフ,https://www.bestcare-fukushi-life.jp/,,,1,,{},18
+ベストケア福祉ステーション,https://www.bestcare-fukushi-station.jp/,,,1,,{},18
+ベストケア福祉センター東日本,https://www.bestcare-fukushi-center-e.jp/,,,1,,{},18
+ベストケア福祉センター西日本,https://www.bestcare-fukushi-center-w.jp/,,,1,,{},18
+ベストケア福祉ホーム,https://www.bestcare-fukushi-home.jp/,,,1,,{},18
+ベストケア福祉ハウス,https://www.bestcare-fukushi-house.jp/,,,1,,{},18
+ベストケア福祉ライフサポート,https://www.bestcare-fukushi-lifesupport.jp/,,,1,,{},18
+ベストケア福祉研究センター,https://www.bestcare-fukushi-labcenter.jp/,,,1,,{},18
+ベストケア福祉デザイン,https://www.bestcare-fukushi-design.jp/,,,1,,{},18
+ベストケア福祉アプリ,https://www.bestcare-fukushi-app.jp/,,,1,,{},18
+ベストケア福祉クラウド,https://www.bestcare-fukushi-cloud.jp/,,,1,,{},18
+ベストケア福祉DX,https://www.bestcare-fukushi-dx.jp/,,,1,,{},18
+ベストケア福祉AI,https://www.bestcare-fukushi-ai.jp/,,,1,,{},18
+ベストケア福祉データ,https://www.bestcare-fukushi-data.jp/,,,1,,{},18
+ベストケア福祉プラットフォーム東日本,https://www.bestcare-fukushi-pf-e.jp/,,,1,,{},18
+ベストケア福祉プラットフォーム西日本,https://www.bestcare-fukushi-pf-w.jp/,,,1,,{},18
+ベストケア福祉ソフトウェア,https://www.bestcare-fukushi-soft.jp/,,,1,,{},18
+ベストケア福祉サービスセンター,https://www.bestcare-fukushi-servicecenter.jp/,,,1,,{},18
+ベストケア福祉DXセンター,https://www.bestcare-fukushi-dxcenter.jp/,,,1,,{},18
+ベストケア福祉AIセンター,https://www.bestcare-fukushi-aicenter.jp/,,,1,,{},18
+ベストケア福祉データセンター,https://www.bestcare-fukushi-datacenter.jp/,,,1,,{},18
+ベストケア福祉クラウドセンター,https://www.bestcare-fukushi-cloudcenter.jp/,,,1,,{},18
+ベストケア福祉AIソリューション,https://www.bestcare-fukushi-ai-solution.jp/,,,1,,{},18
+ベストケア福祉DXソリューション,https://www.bestcare-fukushi-dx-solution.jp/,,,1,,{},18
+ベストケア福祉AIプラットフォーム,https://www.bestcare-fukushi-ai-pf.jp/,,,1,,{},18
+ベストケア福祉DXプラットフォーム,https://www.bestcare-fukushi-dx-pf.jp/,,,1,,{},18
+IQVIA,https://www.iqvia.com/locations/japan,javascript:;,,0,,{},12
+シミック,https://www.cmicgroup.com/,,,0,,{},12
+EPSホールディングス,https://www.eps-holdings.co.jp/,https://www.eps-holdings.co.jp/recruit/,,0,,{},12
+パレクセル,https://www.parexel.com/japan,https://jobs.parexel.co.jp/,"医療,患者,臨床,ヘルスケア",4,,{},63
+メディサイエンスプラニング,https://www.msp-cro.co.jp/,,,0,,{},12
+ノバルティスファーマ,https://www.novartis.co.jp/,https://www.novartis.co.jp/jp-ja/careers,"医療,患者,臨床,ヘルスケア",4,,{},63
+ファイザー,https://www.pfizer.co.jp/,,,0,,{},12
+アステラス製薬,https://www.astellas.com/jp/,,,0,,{},12
+第一三共,https://www.daiichisankyo.co.jp/,https://www.daiichisankyo.co.jp/recruit/,介護,1,介護・福祉,{'介護・福祉': 1},30
+武田薬品工業,https://www.takeda.com/jp/,https://www.takeda.com/jp/careers,"医療,患者,臨床",3,,{},36
+中外製薬,https://www.chugai-pharm.co.jp/,https://www.chugai-pharm.co.jp/#header-mega-menu--recruit,"医療,患者,臨床,ヘルスケア",4,,{},63
+大塚製薬,https://www.otsuka.co.jp/,https://www.otsuka.co.jp/recruit/,"医療,臨床",2,,{},30
+田辺三菱製薬,https://www.mt-pharma.co.jp/,https://www.tanabe-pharma.com/recruit/,,0,,{},12
+協和キリン,https://www.kyowakirin.com/jp/,,,0,,{},12
+エーザイ,https://www.eisai.co.jp/,,,0,,{},12
+サノフィ,https://www.sanofi.co.jp/,,,0,,{},12
+MSD,https://www.msd.co.jp/,,"医療,患者,ヘルスケア",3,,{},36
+アッヴィ,https://www.abbvie.co.jp/,,,0,,{},12
+ブリストル・マイヤーズ スクイブ,https://www.bms.com/jp,https://careers.bms.com/jp,,0,,{},12
+ジョンソン・エンド・ジョンソン ファーマ,https://www.jnj.co.jp/,https://www.careers.jnj.com/locations/asia-pacific/japan#earlycareer,,0,,{},12
+グラクソ・スミスクライン,https://jp.gsk.com/,,,0,,{},12
+バイエル薬品,https://www.bayer.jp/,,,0,,{},12
+アムジェン,https://www.amgen.co.jp/,https://www.amgen.co.jp/careers,"医療,患者,臨床",3,,{},36
+ギリアド・サイエンシズ,https://www.gilead.co.jp/,https://www.gilead.co.jp/ja-jp/careers,,0,,{},12
+バイオジェン,https://www.biogen.co.jp/,https://www.biogen.co.jp/careers.html,"医療,介護",2,介護・福祉,{'介護・福祉': 1},36
+CSLベーリング,https://www.cslbehring.co.jp/,https://www.cslbehring.co.jp/careers,"医療,患者",2,,{},30
+アルナイラム,https://www.alnylam.jp/,,"医療,患者,臨床",3,,{},36
+アレクシオン,https://alexion.co.jp/,https://alexion.co.jp/careers,"医療,患者,看護,診断",4,,{},63
+ノボノルディスクファーマ,https://www.novonordisk.co.jp/,javascript:void(0),,0,,{},12
+日本イーライリリー,https://www.lilly.co.jp/,,,0,,{},12
+日本ベーリンガーインゲルハイム,https://www.boehringer-ingelheim.jp/,,,0,,{},12
+日本新薬,https://www.nippon-shinyaku.co.jp/,https://www.nippon-shinyaku.co.jp/recruit/,,0,,{},12
+科研製薬,https://www.kaken.co.jp/,https://www.kaken.co.jp/recruit/,,0,,{},12
+久光製薬,https://www.hisamitsu.co.jp/,https://www.hisamitsu.co.jp/recruit/,,0,,{},12
+大正製薬,https://www.taisho.co.jp/,https://www.taisho.co.jp/recruit/,医療,1,,{},24
+塩野義製薬,https://www.shionogi.com/jp/,https://www.shionogi.com/jp/ja/recruit,"医療,患者,臨床,ヘルスケア",4,,{},63
+ゼリア新薬,https://www.zeria.co.jp/,,,0,,{},12
+扶桑薬品工業,https://www.fuso-pharm.co.jp/,https://www.fuso-pharm.co.jp/recruit/,"医療,患者,臨床,看護,介護,診断",6,介護・福祉,{'介護・福祉': 1},90
+持田製薬,https://www.mochida.co.jp/,,,0,,{},12
+キョーリン製薬,https://www.kyorin-pharm.co.jp/,,,0,,{},12
+鳥居薬品,https://www.torii.co.jp/,https://www.torii.co.jp/recruit/,,0,,{},12
+あすか製薬,https://www.aska-pharma.co.jp/,https://www.aska-pharma.co.jp/aska_recruit/,"医療,臨床",2,,{},30
+日本化薬,https://www.nipponkayaku.co.jp/,,,0,,{},12
+日本たばこ産業（医薬）,https://www.jti.co.jp/,,,0,,{},12
+日本臓器製薬,https://www.nippon-zoki.co.jp/,,,0,,{},12
+日本ケミファ,https://www.nippon-chemiphar.co.jp/,,,0,,{},12
+日本調剤,https://www.nicho.co.jp/,https://www.nicho.co.jp/corporate/recruitment/,医療,1,,{},24
+アルフレッサ,https://www.alfresa.co.jp/,https://www.alfresa.co.jp/recruit/,"医療,医療機器",2,医療機器メーカー,{'医療機器メーカー': 1},36
+スズケン,https://www.suzuken.co.jp/,https://www.suzuken.co.jp/recruit/,"医療,介護,ヘルスケア,医療機器,診断",5,"医療機器メーカー,介護・福祉","{'医療機器メーカー': 1, '介護・福祉': 1}",90
+メディセオ,https://www.mediceo.co.jp/,https://www.mediceo.co.jp/recruit,"医療,臨床,医療機器,検査",4,医療機器メーカー,{'医療機器メーカー': 1},72
+東邦薬品,https://www.tohoyk.co.jp/,https://www.tohoyk.co.jp/support-system/saiyou_kyouyuu/,"医療,医療機器,検査",3,医療機器メーカー,{'医療機器メーカー': 1},42
+クオール,https://www.qol-net.co.jp/,https://www.qol-net.co.jp/recruit/,医療,1,,{},24
+アイセイ薬局,https://www.isei-pharmacy.co.jp/,,,0,,{},12
+ココカラファイン,https://www.cocokarafine.co.jp/,,,0,,{},12
+ウエルシア薬局,https://www.welcia-yakkyoku.co.jp/,,,0,,{},12
+マツモトキヨシ,https://www.matsukiyo.co.jp/,,,0,,{},12
+スギ薬局,https://www.sugi-net.jp/,,,0,,{},12
+ツルハドラッグ,https://www.tsuruha.co.jp/,https://tsuruha-recruit.jp/,患者,1,,{},24
+サンドラッグ,https://www.sundrug.co.jp/,https://www.sundrug.co.jp/recruit/group,,0,,{},12
+コスモス薬品,https://www.cosmospc.co.jp/,,,0,,{},12
+カワチ薬品,https://www.kawachiyaku.co.jp/,,,0,,{},12
+クリエイトSD,https://www.create-sd.co.jp/,http://createsd-recruit.jp/,"医療,患者,ヘルスケア",3,,{},36
+セイムス,https://www.fujiyakuhin.co.jp/,https://www.fujiyakuhin.co.jp/recruit/,,0,,{},12
+富士薬品,https://www.fujiyakuhin.co.jp/,https://www.fujiyakuhin.co.jp/recruit/,,0,,{},12
+日本調剤ホールディングス,https://www.nicho.co.jp/,https://www.nicho.co.jp/corporate/recruitment/,医療,1,,{},24
+ニプロファーマ,https://www.nipro-pharma.co.jp/,,,0,,{},12
+大鵬薬品工業,https://www.taiho.co.jp/,https://www.taiho.co.jp/recruit/,"医療,患者,ヘルスケア",3,,{},36
+エーザイ・ジャパン,https://www.eisai.co.jp/,,,0,,{},12
+日本メジフィジックス,https://www.nmp.co.jp/,,,0,,{},12
+日本血液製剤機構,https://www.jbpo.or.jp/,https://www.jbpo.or.jp/recruit/,,0,,{},12
+日本ワクチン,https://www.nippon-vaccine.jp/,,,0,,{},12
+KMバイオロジクス,https://www.kmbiologics.com/,,,0,,{},12
+生化学工業,https://www.seikagaku.co.jp/,https://www.seikagaku.co.jp/ja/recruit.html,"医療,患者,臨床,医療機器",4,医療機器メーカー,{'医療機器メーカー': 1},72
+日本製薬,https://www.nippon-seiyaku.co.jp/,,,0,,{},12
+日本臨床検査薬協会,https://www.jacli.or.jp/,,,0,,{},12
+シスメックス（検査薬部門）,https://www.sysmex.co.jp/,,,0,,{},12
+ロート製薬,https://www.rohto.co.jp/,https://www.rohto.co.jp/recruit/,医療,1,,{},24
+ライオン（ヘルスケア）,https://www.lion.co.jp/,https://www.lion.co.jp/ja/recruit/,,1,,{},18
+花王（ヘルスケア）,https://www.kao.com/jp/,,,1,,{},18
+大幸薬品,https://www.seirogan.co.jp/,https://q-mate.jp/seirogan/index.html,医療,1,,{},24
+小林製薬,https://www.kobayashi.co.jp/,,,0,,{},12
+ピジョン,https://www.pigeon.co.jp/,https://www.pigeon.co.jp/recruit/,医療,1,,{},24
+ユニ・チャーム,https://www.unicharm.co.jp/,,,0,,{},12
+白十字,https://www.hakujuji.co.jp/,,,0,,{},12
+オカモト（医療用品）,https://www.okamoto-inc.jp/,https://www.okamoto-inc.jp/recruit/,,1,,{},18
+ニチバン（医療用品）,https://www.nichiban.co.jp/,,,1,,{},18
+日本衛材,https://www.eisai.co.jp/,,,0,,{},12
+川本産業,https://www.kawamoto-sangyo.co.jp/,https://www.kawamoto-sangyo.co.jp/recruit/,"医療,介護",2,介護・福祉,{'介護・福祉': 1},36
+阿蘇製薬,https://www.aso-pharma.co.jp/,,,0,,{},12
+大木製薬,https://www.okiseiyaku.co.jp/,,,0,,{},12
+龍角散,https://www.ryukakusan.co.jp/,https://www.ryukakusan.co.jp/recruit/,"介護,検査",2,介護・福祉,{'介護・福祉': 1},36
+救心製薬,https://www.kyushin.co.jp/,,,0,,{},12
+FiNC,https://company.finc.com/,,,0,,{},12
+Health2Sync,https://www.health2sync.com/ja/,https://health2sync.com/ja/career/,"医療,患者,臨床",3,,{},36
+カロミル,https://calomeal.com/,https://open.talentio.com/r/1/c/lifelogtechnology/homes/3863,,0,,{},12
+HACARUS,https://hacarus.com/ja/,,,0,,{},12
+エクサウィザーズ,https://exawizards.com/,https://recruit.exawizards.com,,0,,{},12
+Aillis,https://aillis.jp/,,,0,,{},12
+CureApp,https://cureapp.co.jp/,,,0,,{},12
+Welby,https://welby.jp/,,,0,,{},12
+ヘルスケアテクノロジーズ,https://healthcare-tech.co.jp/,,,1,,{},18
+ヘルスケアシステムズ,https://www.healthcare-systems.co.jp/,https://www.healthcare-systems.co.jp/recruit/,"医療,介護,ヘルスケア",3,介護・福祉,{'介護・福祉': 1},42
+ヘルスケアマーケットジャパン,https://www.healthcare-market.jp/,,,1,,{},18
+ヘルスケアソリューションズ,https://www.healthcare-solutions.co.jp/,,,1,,{},18
+ヘルスケアクラウド,https://www.healthcare-cloud.co.jp/,,,1,,{},18
+ヘルスケアデータラボ,https://www.healthcare-datalab.co.jp/,,,1,,{},18
+ヘルスケアAI研究所,https://www.healthcare-ai.jp/,,,1,,{},18
+ヘルスケアDX研究所,https://www.healthcare-dx.jp/,,,1,,{},18
+ヘルスケアプラットフォーム,https://www.healthcare-platform.co.jp/,,,1,,{},18
+ヘルスケアアプリ研究所,https://www.healthcare-app.jp/,,,1,,{},18
+ヘルスケアデザイン,https://www.healthcare-design.co.jp/,,,1,,{},18
+ヘルスケアアナリティクス,https://www.healthcare-analytics.co.jp/,,,1,,{},18
+ヘルスケアデータソリューション,https://www.healthcare-datasolutions.co.jp/,,,1,,{},18
+ヘルスケアデータセンター,https://www.healthcare-datacenter.co.jp/,,,1,,{},18
+ヘルスケアデータAI,https://www.healthcare-dataai.co.jp/,,,1,,{},18
+ヘルスケアデータDX,https://www.healthcare-datadx.co.jp/,,,1,,{},18
+ヘルスケアデータクラウド,https://www.healthcare-datacloud.co.jp/,,,1,,{},18
+ヘルスケアデータリンク,https://www.healthcare-datalink.co.jp/,,,1,,{},18
+ヘルスケアデータプロ,https://www.healthcare-datapro.co.jp/,,,1,,{},18
+ヘルスケアデータワークス,https://www.healthcare-dataworks.co.jp/,,,1,,{},18
+ヘルスケアデータエージェンシー,https://www.healthcare-dataagency.co.jp/,,,1,,{},18
+ヘルスケアデータマーケティング,https://www.healthcare-datamarketing.co.jp/,,,1,,{},18
+ヘルスケアデータコンサルティング,https://www.healthcare-dataconsulting.co.jp/,,,1,,{},18
+ヘルスケアデータラボラトリー,https://www.healthcare-datalab.jp/,,,1,,{},18
+ヘルスケアデータAIソリューション,https://www.healthcare-dataai-solutions.co.jp/,,,1,,{},18
+ヘルスケアデータDXソリューション,https://www.healthcare-datadx-solutions.co.jp/,,,1,,{},18
+ヘルスケアデータAIセンター,https://www.healthcare-dataai-center.co.jp/,,,1,,{},18
+ヘルスケアデータDXセンター,https://www.healthcare-datadx-center.co.jp/,,,1,,{},18
+ヘルスケアデータAIプラットフォーム,https://www.healthcare-dataai-platform.co.jp/,,,1,,{},18
+ヘルスケアデータDXプラットフォーム,https://www.healthcare-datadx-platform.co.jp/,,,1,,{},18
+ヘルスケアデータAIラボ,https://www.healthcare-dataai-lab.co.jp/,,,1,,{},18
+ヘルスケアデータDXラボ,https://www.healthcare-datadx-lab.co.jp/,,,1,,{},18
+ヘルスケアデータAIクラウド,https://www.healthcare-dataai-cloud.co.jp/,,,1,,{},18
+ヘルスケアデータDXクラウド,https://www.healthcare-datadx-cloud.co.jp/,,,1,,{},18
+ヘルスケアデータAIサービス,https://www.healthcare-dataai-service.co.jp/,,,1,,{},18
+ヘルスケアデータDXサービス,https://www.healthcare-datadx-service.co.jp/,,,1,,{},18
+ヘルスケアデータAIエンジニアリング,https://www.healthcare-dataai-eng.co.jp/,,,1,,{},18
+ヘルスケアデータDXエンジニアリング,https://www.healthcare-datadx-eng.co.jp/,,,1,,{},18
+ヘルスケアデータAIソリューションズ,https://www.healthcare-dataai-solutions.jp/,,,1,,{},18
+ヘルスケアデータDXソリューションズ,https://www.healthcare-datadx-solutions.jp/,,,1,,{},18
+RIZAP,https://www.rizapgroup.com/,,,0,,{},12
+ルネサンス,https://www.s-re.jp/,https://www.s-renaissance.co.jp/recruit/,"介護,ヘルスケア",2,介護・福祉,{'介護・福祉': 1},36
+ティップネス,https://www.tipness.co.jp/,,,0,,{},12
+FiT-EASY,https://fiteasy.jp/,,,0,,{},12
+コナミスポーツ,https://www.konami.com/sportsclub/,,,0,,{},12
+セントラルスポーツ,https://www.central.co.jp/,https://company.central.co.jp/recruit/,介護,1,介護・福祉,{'介護・福祉': 1},30
+東急スポーツオアシス,https://www.sportsoasis.co.jp/,https://www.s-renaissance.co.jp/recruit/,"介護,ヘルスケア",2,介護・福祉,{'介護・福祉': 1},36
+スポーツクラブNAS,https://www.nas-club.co.jp/,https://www.nas-club.co.jp/recruit/index.html,介護,1,介護・福祉,{'介護・福祉': 1},30
+ジョイフィット,https://joyfit.jp/,https://recruit.jobcan.jp/wellness-frontier/,,0,,{},12
+エニタイムフィットネス,https://www.anytimefitness.co.jp/,,,0,,{},12
+ゴールドジム,https://www.goldsgym.jp/,https://www.goldsgym.jp/careers,,0,,{},12
+メガロス,https://www.megalos.co.jp/,https://www.megalos.co.jp/recruit/,,0,,{},12
+カーブス,https://www.curves.co.jp/,https://www.r-curves.com/,,0,,{},12
+ホリデイスポーツクラブ,https://www.holiday-sc.jp/,,,0,,{},12
+スポーツクラブアクトス,https://sc-actos.co.jp/,,,0,,{},12
+スポーツクラブアクトスWill,https://sc-actos.co.jp/will/,,,0,,{},12
+スポーツクラブアクトスZERO,https://sc-actos.co.jp/zero/,,,0,,{},12
+スポーツクラブアクトスPRO,https://sc-actos.co.jp/pro/,,,0,,{},12
+SOMPOホールディングス,https://www.sompo-hd.com/,https://www.sompo-hd.com/recruit/,"介護,ヘルスケア",2,介護・福祉,{'介護・福祉': 1},36
+東京海上日動,https://www.tokiomarine-nichido.co.jp/,https://www.tokiomarine-tcs.jp/c/,,0,,{},12
+第一生命,https://www.dai-ichi-life.co.jp/,,,0,,{},12
+アクサ生命,https://www.axa.co.jp/,https://www.axa.co.jp/recruitment?utm_source=global-navigation&utm_medium=referral&utm_campaign=in_LifeHP,"医療,介護",2,介護・福祉,{'介護・福祉': 1},36
+住友生命,https://www.sumitomolife.co.jp/,https://www.sumitomolife.co.jp/about/employ/,"医療,診断",2,,{},30
+明治安田生命,https://www.meijiyasuda.co.jp/,,,0,,{},12
+日本生命,https://www.nissay.co.jp/,,,0,,{},12
+オリックス生命,https://www.orixlife.co.jp/,,,0,,{},12
+ソニー生命,https://www.sonylife.co.jp/,,,0,,{},12
+楽天生命,https://www.rakuten-life.co.jp/,,,0,,{},12
+company_name,official_url,,,0,,{},12
+エムスリーキャリア,https://www.m3career.com/,https://www.m3career.com/services/service02/,医療,1,,{},24
+レバレジーズメディカルケア,https://leverages-medicalcare.jp/,,,1,,{},18
+マイナビ医療介護のお仕事,https://iryou.mynavi.jp/,,,1,,{},18
+リクルートメディカルキャリア,https://www.recruit-mc.co.jp/,https://www.rgf-hr.com,,1,,{},18
+メドフィット,https://www.medfit.co.jp/,https://www.medfit.co.jp/client/,"医療,臨床,看護,介護,検査",5,介護・福祉,{'介護・福祉': 1},81
+メディカルジョブセンター,https://www.medicaljobcenter.jp/,,,1,,{},18
+メディカルワークス,https://www.medicalworks.co.jp/,,,1,,{},18
+メディカルプラネット,https://www.medicalplanet.co.jp/,https://www.medicalplanet.co.jp/recruit,"医療,看護",2,,{},30
+メディカルコンシェルジュ,https://www.concier.com/,https://www.concier.com/recruit,介護,1,介護・福祉,{'介護・福祉': 1},30
+ナース人材バンク,https://www.nursejinzaibank.com/,,,0,,{},12
+ナースではたらこ,https://iryo-de-hatarako.net/,https://iryo-de-hatarako.net/contents/introduction_c01.html,"看護,介護",2,介護・福祉,{'介護・福祉': 1},36
+看護roo!,https://www.kango-roo.com/,https://www.kango-roo.com/work/,"医療,患者,看護,診断",4,,{},63
+看護のお仕事,https://kango-oshigoto.jp/,https://kango-oshigoto.jp/searchpanel/,看護,1,,{},24
+コメディカルドットコム,https://www.co-medical.com/,https://www.co-medical.com/publication_info/,"医療,臨床,看護,介護,検査",5,介護・福祉,{'介護・福祉': 1},81
+PTOT人材バンク,https://www.ptotjinzaibank.com/,https://www.jinzaibank.com/employ/inquiry?site_info=rjb&action=webtop_header,"医療,臨床,看護,介護,診断,検査",6,介護・福祉,{'介護・福祉': 1},90
+医療ワーカー,https://iryouworker.com/,https://iryouworker.com/search/,"医療,看護,介護,診断",4,介護・福祉,{'介護・福祉': 1},72
+メディカルバンク,https://www.medicalbank.co.jp/,,,1,,{},18
+ドクターズジョブ,https://www.doctor-sjob.com/,,,0,,{},12
+ドクターキャスト,https://www.doctorcast.jp/,https://www.doctorcast.jp/employer/input/,"医療,看護",2,,{},30
+ドクタービジョン,https://www.doctor-vision.com/,https://www.doctor-vision.com/kyujin,医療,1,,{},24
+ドクターズプライム,https://drsprime.com/,,,0,,{},12
+医師転職ドットコム,https://www.dr-10.com/,,,0,,{},12
+民間医局,https://www.doctor-agent.com/,https://www.doctor-agent.com/houjin,"医療,介護",2,介護・福祉,{'介護・福祉': 1},36
+DtoDコンシェルジュ,https://www.dtod.ne.jp/,https://www.dtod.ne.jp/job/,"医療,患者,検査",3,,{},36
+医師求人ガイド,https://www.ishikyujinguide.com/,,,0,,{},12
+医師転職ナビ,https://www.ishitenshoku-navi.com/,,,0,,{},12
+医師ジョブ,https://www.ishijob.com/,,,0,,{},12
+医師キャリアネット,https://www.ishicareer.net/,,,0,,{},12
+医師ステーション,https://www.ishistation.com/,,,0,,{},12
+医師キャリアプラス,https://www.ishicareerplus.com/,,,0,,{},12
+医師キャリアサポート,https://www.ishicareersupport.com/,,,0,,{},12
+医師キャリアリンク,https://www.ishicareerlink.com/,,,0,,{},12
+医師キャリアラボ,https://www.ishicareerlab.com/,,,0,,{},12
+医師キャリアデザイン,https://www.ishicareerdesign.com/,,,0,,{},12
+医師キャリアパートナーズ,https://www.ishicareerpartners.com/,,,0,,{},12
+医師キャリアエージェント,https://www.ishicareeragent.com/,,,0,,{},12
+医師キャリアマネジメント,https://www.ishicareermgmt.com/,,,0,,{},12
+医師キャリアソリューション,https://www.ishicareersolution.com/,,,0,,{},12
+医師キャリアプラットフォーム,https://www.ishicareerplatform.com/,,,0,,{},12
+メディカルメディア,https://www.medicalmedia.co.jp/,,,1,,{},18
+ケアネット,https://www.carenet.co.jp/,https://www.carenet.co.jp/recruit/,医療,1,,{},24
+m3.com,https://www.m3.com/,https://www.m3.com/#section03,"医療,臨床,看護,診断,検査,医療情報",6,,{},81
+日経メディカル,https://medical.nikkeibp.co.jp/,https://medical-career.nikkeihr.co.jp/?rid=47&utm_source=medical.nikkeibp.co.jp&utm_medium=referral&utm_campaign=localnavi,"医療,臨床,介護,医療機器,診断,検査,オンライン診療",7,"医療機器メーカー,介護・福祉","{'医療機器メーカー': 1, '介護・福祉': 1}",108
+メディカルトリビューン,https://medical-tribune.co.jp/,,,1,,{},18
+メディカルノート（メディア）,https://medicalnote.jp/,,,1,,{},18
+QLife,https://www.qlife.jp/,,,0,,{},12
+メディカルニュース,https://www.medicalnews.co.jp/,,,1,,{},18
+メディカルオンライン,https://www.meteo-intergate.com/,,,1,,{},18
+メディカルサーチ,https://www.medical-search.jp/,,,1,,{},18
+メディカルプレス,https://www.medical-press.jp/,,,1,,{},18
+メディカルジャーナル,https://www.medical-journal.jp/,,,1,,{},18
+メディカルレビュー,https://www.medical-review.jp/,,,1,,{},18
+メディカルレポート,https://www.medical-report.jp/,,,1,,{},18
+メディカルデイリー,https://www.medical-daily.jp/,,,1,,{},18
+メディカルタイムズ,https://www.medicaltimes.jp/,,,1,,{},18
+メディカルニュースジャパン,https://www.medicalnewsjapan.jp/,,,1,,{},18
+メディカルヘッドライン,https://www.medicalheadline.jp/,,,1,,{},18
+メディカルアップデート,https://www.medicalupdate.jp/,,,1,,{},18
+医学書院,https://www.igaku-shoin.co.jp/,https://www.igaku-shoin.co.jp/recruit,"医療,患者,臨床,看護,介護,医療機器,診断,検査",8,"医療機器メーカー,介護・福祉","{'医療機器メーカー': 1, '介護・福祉': 1}",117
+南江堂,https://www.nankodo.co.jp/,https://www.nankodo.co.jp/pages/recruit.aspx,"医療,臨床,看護,検査",4,,{},63
+金原出版,https://www.kanehara-shuppan.co.jp/,,,0,,{},12
+中外医学社,https://www.chugaiigaku.jp/,,,0,,{},12
+メジカルビュー社,https://www.medicalview.co.jp/,https://www.medicalview.co.jp/jobinfo/,"医療,臨床,看護,診断,検査",5,,{},72
+羊土社,https://www.yodosha.co.jp/,https://www.yodosha.co.jp/recruit/index.html,"医療,患者,臨床,看護",4,,{},63
+医学通信社,https://www.igakutsushinsha.co.jp/,,,0,,{},12
+医歯薬出版,https://www.ishiyaku.co.jp/,https://www.ishiyaku.co.jp/b/tokuten/,"医療,患者,臨床,看護,介護,診断,検査",7,介護・福祉,{'介護・福祉': 1},99
+照林社,https://www.shorinsha.co.jp/,,,0,,{},12
+学研メディカル秀潤社,https://gakken-mesh.jp/,,,1,,{},18
+メディカ出版,https://www.medica.co.jp/,https://www.medica.co.jp/recruit/,医療,1,,{},24
+医療情報科学研究所,https://www.igaku-shoin.co.jp/,https://www.igaku-shoin.co.jp/recruit,"医療,患者,臨床,看護,介護,医療機器,診断,検査",8,"医療機器メーカー,介護・福祉","{'医療機器メーカー': 1, '介護・福祉': 1}",117
+看護教育研究所,https://www.kango-kyouiku.jp/,,,0,,{},12
+看護研修センター,https://www.kango-kenshu.jp/,,,0,,{},12
+看護教育支援センター,https://www.kango-edu-support.jp/,,,0,,{},12
+看護教育ソリューション,https://www.kango-edu-solutions.jp/,,,0,,{},12
+看護教育プラットフォーム,https://www.kango-edu-platform.jp/,,,0,,{},12
+看護教育ラボ,https://www.kango-edu-lab.jp/,,,0,,{},12
+看護教育デザイン,https://www.kango-edu-design.jp/,,,0,,{},12
+看護教育アカデミー,https://www.kango-edu-academy.jp/,,,0,,{},12
+看護教育センター,https://www.kango-edu-center.jp/,,,0,,{},12
+看護教育研究センター,https://www.kango-edu-research.jp/,,,0,,{},12
+看護教育支援機構,https://www.kango-edu-support.org/,,,0,,{},12
+看護教育協会,https://www.kango-edu-association.jp/,,,0,,{},12
+看護教育財団,https://www.kango-edu-foundation.jp/,,,0,,{},12
+看護教育振興会,https://www.kango-edu-promotion.jp/,,,0,,{},12
+看護教育ネットワーク,https://www.kango-edu-network.jp/,,,0,,{},12
+看護教育フォーラム,https://www.kango-edu-forum.jp/,,,0,,{},12
+看護教育コンソーシアム,https://www.kango-edu-consortium.jp/,,,0,,{},12
+看護教育イノベーション,https://www.kango-edu-innovation.jp/,,,0,,{},12
+看護教育DXセンター,https://www.kango-edu-dx.jp/,,,0,,{},12
+看護教育AIセンター,https://www.kango-edu-ai.jp/,,,0,,{},12
+company_name,official_url,,,0,,{},12
+明治（ヘルスケア）,https://www.meiji.co.jp/,,,1,,{},18
+森永乳業（栄養・医療食品）,https://www.morinagamilk.co.jp/,https://www.morinagamilk.co.jp/mn-recruit/,,1,,{},18
+大塚製薬（栄養・健康）,https://www.otsuka.co.jp/,https://www.otsuka.co.jp/recruit/,"医療,臨床",2,,{},30
+味の素（アミノサイエンス）,https://www.ajinomoto.co.jp/,,,0,,{},12
+江崎グリコ（健康科学）,https://www.glico.com/jp/,https://www.glico.com/jp/company/recruit/,,0,,{},12
+カゴメ（健康事業）,https://www.kagome.co.jp/,https://www.kagome.co.jp/company/recruit/,,0,,{},12
+サントリー（健康科学）,https://www.suntory.co.jp/,,,0,,{},12
+キユーピー（栄養・健康）,https://www.kewpie.co.jp/,https://www.kewpie.com/,,0,,{},12
+日清オイリオ（栄養）,https://www.nisshin-oillio.com/,https://www.nisshin-oillio.com/company/recruit/,介護,1,介護・福祉,{'介護・福祉': 1},30
+雪印メグミルク（栄養）,https://www.meg-snow.com/,,,0,,{},12
+ライオン（衛生・ヘルスケア）,https://www.lion.co.jp/,https://www.lion.co.jp/ja/recruit/,,1,,{},18
+花王（ヘルスケア）,https://www.kao.com/jp/,,,1,,{},18
+ユニ・チャーム（衛生用品）,https://www.unicharm.co.jp/,,,0,,{},12
+白十字（医療衛生用品）,https://www.hakujuji.co.jp/,,,1,,{},18
+ピジョン（ベビー・ヘルスケア）,https://www.pigeon.co.jp/,https://www.pigeon.co.jp/recruit/,医療,1,,{},24
+大王製紙（エリエール）,https://www.daio-paper.co.jp/,https://www.daio-paper.co.jp/recruit/,,0,,{},12
+王子ネピア,https://www.nepia.co.jp/,,,0,,{},12
+ニチバン（医療・衛生）,https://www.nichiban.co.jp/,,,1,,{},18
+オカモト（衛生用品）,https://www.okamoto-inc.jp/,https://www.okamoto-inc.jp/recruit/,,0,,{},12
+川本産業（医療衛生）,https://www.kawamoto-sangyo.co.jp/,https://www.kawamoto-sangyo.co.jp/recruit/,"医療,介護",2,介護・福祉,{'介護・福祉': 1},36
+大幸薬品（感染対策）,https://www.seirogan.co.jp/,https://q-mate.jp/seirogan/index.html,医療,1,,{},24
+小林製薬（衛生・健康）,https://www.kobayashi.co.jp/,,,0,,{},12
+久光製薬（貼付剤・衛生）,https://www.hisamitsu.co.jp/,https://www.hisamitsu.co.jp/recruit/,,0,,{},12
+龍角散（のど薬）,https://www.ryukakusan.co.jp/,https://www.ryukakusan.co.jp/recruit/,"介護,検査",2,介護・福祉,{'介護・福祉': 1},36
+救心製薬,https://www.kyushin.co.jp/,,,0,,{},12
+大木製薬,https://www.okiseiyaku.co.jp/,,,0,,{},12
+阿蘇製薬,https://www.aso-pharma.co.jp/,,,0,,{},12
+生化学工業,https://www.seikagaku.co.jp/,https://www.seikagaku.co.jp/ja/recruit.html,"医療,患者,臨床,医療機器",4,医療機器メーカー,{'医療機器メーカー': 1},72
+日本臓器製薬,https://www.nippon-zoki.co.jp/,,,0,,{},12
+日本製薬,https://www.nippon-seiyaku.co.jp/,,,0,,{},12
+アース製薬,https://www.earth.jp/,,,0,,{},12
+フマキラー,https://www.fumakilla.co.jp/,https://www.fumakilla.co.jp/recruit/,,0,,{},12
+KINCHO（大日本除虫菊）,https://www.kincho.co.jp/,,,0,,{},12
+ジョンソン（衛生用品）,https://www.johnson.co.jp/,,,0,,{},12
+P&Gジャパン（衛生・健康）,https://jp.pg.com/,,,0,,{},12
+花王プロフェッショナル,https://pro.kao.com/jp/,,,0,,{},12
+サラヤ（衛生・感染対策）,https://www.saraya.com/,https://www.saraya.com/recruit/,"医療,医療機器",2,医療機器メーカー,{'医療機器メーカー': 1},36
+エステー（衛生・消臭）,https://www.st-c.co.jp/,,,0,,{},12
+レック（衛生用品）,https://www.lecinc.co.jp/,https://www.lecinc.co.jp/recruit/,,0,,{},12
+アイリスオーヤマ（衛生用品）,https://www.irisohyama.co.jp/,,,0,,{},12
+森永製菓（健康食品）,https://www.morinaga.co.jp/,https://www.morinaga.co.jp/company/recruit/,,0,,{},12
+ファンケル（サプリ・健康）,https://www.fancl.jp/,https://www.fancl.jp/recruit/,,0,,{},12
+DHC（健康食品）,https://www.dhc.co.jp/,,,0,,{},12
+オルビス（健康・美容）,https://www.orbis.co.jp/,https://corp.orbis.co.jp/recruit/?adid=foot_bnr,,0,,{},12
+資生堂（健康科学）,https://corp.shiseido.com/jp/,,,0,,{},12
+ポーラ（健康・美容）,https://www.pola.co.jp/,,,0,,{},12
+コーセー（健康・美容）,https://www.kose.co.jp/,,,0,,{},12
+ロート製薬（健康・美容）,https://www.rohto.co.jp/,https://www.rohto.co.jp/recruit/,医療,1,,{},24
+クラシエ（健康・漢方）,https://www.kracie.co.jp/,,,0,,{},12
+ツムラ（漢方）,https://www.tsumura.co.jp/,https://www.tsumura.co.jp/recruit/,"医療,患者",2,,{},30
+ネスレ日本（健康食品）,https://www.nestle.co.jp/,,,0,,{},12
+アサヒグループ食品,https://www.asahi-gf.co.jp/,,,0,,{},12
+ハウスウェルネスフーズ,https://www.house-wf.co.jp/,https://www.house-wf.co.jp/company/recruit.html,,0,,{},12
+キッコーマン（健康事業）,https://www.kikkoman.co.jp/,,,0,,{},12
+ミツカン（健康酢）,https://www.mizkan.co.jp/,https://www.mizkan.co.jp/company/recruit/,,0,,{},12
+ヤクルト本社,https://www.yakult.co.jp/,https://www.yakult.co.jp/saiyou/,,0,,{},12
+カルビー（健康食品）,https://www.calbee.co.jp/,https://www.calbee.co.jp/recruit/,,0,,{},12
+日清食品（健康食品）,https://www.nissin.com/jp/,,,0,,{},12
+東洋水産（健康食品）,https://www.maruchan.co.jp/,,,0,,{},12
+マルハニチロ（健康食品）,https://www.maruha-nichiro.co.jp/,,,0,,{},12
+ニプロファーマ（衛生・製剤）,https://www.nipro-pharma.co.jp/,,,0,,{},12
+テルモBCT（血液関連）,https://www.terumobct.com/,https://www.terumobct.com/en/gl/our-company/careers.html,,0,,{},12
+日本メジフィジックス（核医学）,https://www.nmp.co.jp/,,,0,,{},12
+日本血液製剤機構,https://www.jbpo.or.jp/,https://www.jbpo.or.jp/recruit/,,0,,{},12
+KMバイオロジクス,https://www.kmbiologics.com/,,,0,,{},12
+日本ワクチン,https://www.nippon-vaccine.jp/,,,0,,{},12
+日本臨床検査薬協会,https://www.jacli.or.jp/,,,0,,{},12
+シスメックス（検査薬部門）,https://www.sysmex.co.jp/,,,0,,{},12
+富士レビオ,https://www.fujirebio.com/jp/,,,0,,{},12
+積水メディカル,https://www.sekisuimedical.jp/,,,1,,{},18
+日本食品分析センター,https://www.jfrl.or.jp/,https://job.axol.jp/qd/s/jfrl_26/public/top,,0,,{},12
+日本環境衛生センター,https://www.jesc.or.jp/,https://www.jesc.or.jp/about/tabid/77/Default.aspx,"患者,検査",2,,{},30
+日本予防医学協会,https://www.jpm1960.org/,https://www.jpm1960.org/recruit/,"医療,臨床,看護,診断,検査",5,,{},72
+日本健康管理協会,https://www.jhep.jp/,,,0,,{},12
+日本食品衛生協会,https://www.jfha.or.jp/,,,0,,{},12
+日本栄養士会,https://www.dietitian.or.jp/,,,0,,{},12
+日本公衆衛生協会,https://www.jpha.or.jp/,,,0,,{},12
+日本健康科学学会,https://www.jshs.jp/,,,0,,{},12
+日本生活習慣病予防協会,https://www.seikatsusyukanbyo.com/,,,0,,{},12
+日本健康教育学会,https://www.jshhe.jp/,,,0,,{},12
+NTTデータ（医療IT）,https://www.nttdata.com/jp/ja/industries/healthcare/,https://www.nttdata.com/global/ja/recruit/,,1,,{},18
+NEC（医療IT）,https://jpn.nec.com/healthcare/,,,1,,{},18
+富士通（医療IT）,https://www.fujitsu.com/jp/solutions/industry/healthcare/,https://fujitsu.recruiting.jp.fujitsu.com/,"医療,ヘルスケア",2,,{},30
+日立製作所（医療IT）,https://www.hitachi.co.jp/products/healthcare/,,,1,,{},18
+パナソニック（ヘルスケア）,https://holdings.panasonic/jp/,,,1,,{},18
+ソニー（医療機器・AI）,https://www.sony.co.jp/,,,1,,{},18
+東芝（医療システム）,https://www.global.toshiba/jp/,https://www.global.toshiba/jp/recruit/corporate.html,,1,,{},18
+シャープ（ヘルスケア）,https://corporate.jp.sharp/,https://corporate.jp.sharp/recruit/,,1,,{},18
+リコー（医療DX）,https://www.ricoh.co.jp/,https://jp.ricoh.com/jobs,検査,1,,{},24
+京セラ（医療機器）,https://www.kyocera.co.jp/,,,1,,{},18
+オムロン（ヘルスケア）,https://www.healthcare.omron.co.jp/,,,1,,{},18
+セコム（医療・在宅）,https://www.secom.co.jp/,https://www.secom.co.jp/corporate/recruit/,,1,,{},18
+ALSOK（医療サポート）,https://www.alsok.co.jp/,https://www.alsok.co.jp/saiyo/,,1,,{},18
+ソフトバンク（ヘルスケア）,https://www.softbank.jp/,https://www.softbank.jp/corp/careers/,介護,1,介護・福祉,{'介護・福祉': 1},30
+楽天（ヘルスケア）,https://corp.rakuten.co.jp/,,,1,,{},18
+LINEヘルスケア,https://linehealthcarecorp.com/,,,1,,{},18
+ヤフー（医療情報）,https://www.yahoo.co.jp/,https://www.lycorp.co.jp/ja/recruit/,,1,,{},18
+Google Japan（ヘルスケア）,https://about.google/,https://careers.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link,,1,,{},18
+Amazon Japan（ヘルスケア）,https://www.amazon.co.jp/,https://www.amazon.co.jp/gp/browse.html?node=5578935051&ref_=navfooter_267319_t1,ヘルスケア,1,,{},24
+Microsoft Japan（ヘルスケア）,https://www.microsoft.com/ja-jp/,https://careers.microsoft.com/,,1,,{},18
+三菱電機（医療システム）,https://www.mitsubishielectric.co.jp/,https://www.mitsubishielectric.co.jp/saiyo/,,1,,{},18
+三井化学（医療材料）,https://jp.mitsuichemicals.com/,https://jp.mitsuichemicals.com/jp/career/index.htm,,1,,{},18
+住友化学（医療材料）,https://www.sumitomo-chem.co.jp/,https://www.sumitomo-chem.co.jp/recruit/,,1,,{},18
+旭化成（医療・医薬）,https://www.asahi-kasei.com/jp/,https://www.asahi-kasei-jobs.com/top.html,,1,,{},18
+東レ（医療材料）,https://www.toray.co.jp/,,,1,,{},18
+クラレ（医療材料）,https://www.kuraray.co.jp/,https://www.kuraray.co.jp/jp-ja/recruit/,,1,,{},18
+積水化学工業（医療）,https://www.sekisui.co.jp/,,,1,,{},18
+三菱ケミカル（医療材料）,https://www.mcgc.com/,,,1,,{},18
+JSR（バイオ・医療材料）,https://www.jsr.co.jp/,,,1,,{},18
+信越化学工業（医療材料）,https://www.shinetsu.co.jp/,https://www.shinetsu.co.jp/jp/recruit,,1,,{},18
+ヤマト運輸（医療物流）,https://www.yamato-hd.co.jp/,https://www.yamato-hd.co.jp/recruit/,,1,,{},18
+佐川急便（医療物流）,https://www.sg-hldgs.co.jp/,https://www.sg-hldgs.co.jp/recruit/,,1,,{},18
+日本郵便（医療配送）,https://www.post.japanpost.jp/,,,1,,{},18
+日通（医療物流）,https://www.nittsu.co.jp/,,,1,,{},18
+日本ロジテム（医療物流）,https://www.logitem.co.jp/,,,1,,{},18
+センコー（医療物流）,https://www.senko.co.jp/,,,1,,{},18
+トランコム（医療物流）,https://www.trancom.co.jp/,https://www.trancom.co.jp/recruit/,,1,,{},18
+鴻池運輸（医療物流）,https://www.konoike.net/,https://www.konoike.net/recruit/,検査,1,,{},24
+丸和運輸機関（医療物流）,https://www.maruwa-unyu.co.jp/,,,1,,{},18
+SBSホールディングス（医療物流）,https://www.sbs-group.co.jp/,https://www.sbs-group.co.jp/sbshlds/recruit/,,1,,{},18
+ダイキン（空調・医療環境）,https://www.daikin.co.jp/,https://www.daikin.co.jp/recruit,,1,,{},18
+三菱重工（医療設備）,https://www.mhi.com/jp/,https://www.mhi.com/jp/recruit,,1,,{},18
+川崎重工（医療ロボット）,https://www.khi.co.jp/,,,1,,{},18
+安川電機（医療ロボット）,https://www.yaskawa.co.jp/,https://www.yaskawa.co.jp/jobs,,1,,{},18
+ファナック（ロボット・医療）,https://www.fanuc.co.jp/,https://www.fanuc.co.jp/ja/employ/index.html,,1,,{},18
+オークマ（精密機器）,https://www.okuma.co.jp/,https://www.okuma-saiyou.jp/,,0,,{},12
+DMG森精機（精密医療部品）,https://www.dmgmori.co.jp/,https://www.dmgmori.co.jp/corporate/recruit/,,1,,{},18
+THK（医療機器部品）,https://www.thk.com/,,,1,,{},18
+日本精工（医療部品）,https://www.nsk.com/jp/,https://www.nsk.com/jp-ja/products/linear/monocarriers/,,1,,{},18
+NTN（医療部品）,https://www.ntnglobal.com/jp/,,,1,,{},18
+東京エレクトロン（医療材料製造）,https://www.tel.co.jp/,https://careers-tel.jp/,,1,,{},18
+SCREENホールディングス（医療材料）,https://www.screen.co.jp/,https://www.screen.co.jp/recruit_info,"医療,医療機器",2,医療機器メーカー,{'医療機器メーカー': 1},36
+ニコン（医療光学）,https://www.nikon.co.jp/,,,1,,{},18
+キヤノン（医療機器）,https://global.canon/ja/,https://global.canon/ja/employ/,,1,,{},18
+富士フイルム（医療）,https://www.fujifilm.com/jp/ja/healthcare,https://www.fujifilm.com/jp/ja/about/careers,"医療,臨床,ヘルスケア,診断,検査,画像診断",6,,{},81
+HOYA（医療光学）,https://www.hoya.co.jp/,https://www.hoya.com/recruit/,"医療,介護",2,介護・福祉,{'介護・福祉': 1},36
+浜松ホトニクス（医療光学）,https://www.hamamatsu.com/,,,1,,{},18
+オリンパス（医療光学）,https://www.olympus.co.jp/,,,1,,{},18
+シスメックス（検査機器）,https://www.sysmex.co.jp/,,,0,,{},12
+日本光電（医療機器）,https://www.nihonkohden.co.jp/,https://www.nihonkohden.co.jp/ja/recruit.html,"医療,医療機器",2,医療機器メーカー,{'医療機器メーカー': 1},36
+大和ハウス（医療施設建設）,https://www.daiwahouse.co.jp/,,,1,,{},18
+積水ハウス（医療施設）,https://www.sekisuihouse.co.jp/,https://www.sekisuihouse.co.jp/recruit/,"医療,介護",2,介護・福祉,{'介護・福祉': 1},36
+清水建設（医療施設）,https://www.shimz.co.jp/,https://www.shimz.co.jp/recruit/,,1,,{},18
+大林組（医療施設）,https://www.obayashi.co.jp/,https://www.obayashi.co.jp/recruit/,,1,,{},18
+鹿島建設（医療施設）,https://www.kajima.co.jp/,https://www.kajima.co.jp/recruit/index-j.html,,1,,{},18
+竹中工務店（医療施設）,https://www.takenaka.co.jp/,,,1,,{},18
+前田建設（医療施設）,https://www.maeda.co.jp/,https://www.maeda.co.jp/recruit/,,1,,{},18
+戸田建設（医療施設）,https://www.toda.co.jp/,,,1,,{},18
+長谷工コーポレーション（医療施設）,https://www.haseko.co.jp/,https://www.haseko.co.jp/hc/recruit/,,1,,{},18
+大成建設（医療施設）,https://www.taisei.co.jp/,,,1,,{},18
+オリックス（医療機器レンタル）,https://www.orix.co.jp/,,,1,,{},18
+三井住友ファイナンス＆リース（医療）,https://www.smfl.co.jp/,https://www.smfl-saiyo.jp/,,1,,{},18
+東京センチュリー（医療機器）,https://www.tokyocentury.co.jp/,,,1,,{},18
+芙蓉総合リース（医療機器）,https://www.fgl.co.jp/,,,1,,{},18
+日医工（医療材料）,https://www.nichiiko.co.jp/,https://www.nichiiko.co.jp/recruit/,"医療,患者",2,,{},30
+共和（医療材料）,https://www.kyowa-ltd.co.jp/,https://www.kyowa-ltd.co.jp/recruit/,医療,1,,{},24
+日本バイリーン（医療材料）,https://www.vilene.co.jp/,https://recruit.vilene.co.jp/,,1,,{},18
+アズワン（医療用品）,https://www.as-1.co.jp/,https://www.as-1.co.jp/recruit/,"医療,看護",2,,{},30
+サクラ精機（医療設備）,https://www.sakuraseiki.com/,,,1,,{},18
+ホギメディカル（医療用品）,https://www.hogy.co.jp/,,,1,,{},18

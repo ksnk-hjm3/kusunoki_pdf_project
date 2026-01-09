@@ -1,0 +1,4 @@
+company_id,company_name,short_description,medical_relevance_score,side_job_fit_score,career_shift_fit_score,hybrid_fit_score,industry,work_style,risk_level,learning_growth_score,target_background,note_for_coach
+medley,メドレー,医療×ITの大手オンラインプラットフォーム,92,70,95,90,医療IT,正社員/副業可,2,88,医師/看護師/コメディカル,"医療職のキャリアチェンジ実績多数"
+m3,エムスリー,医療従事者向け情報・転職サービス,90,60,92,85,医療プラットフォーム,正社員,1,80,医師/看護師,"安定・実績豊富"
+finc,FiNC,ヘルステックアプリと法人向けウェルビーイング支援,78,88,70,90,ヘルステック,副業可/業務委託,3,82,コメディカル/トレーナー,"プロジェクト単位の関わり方も可能"

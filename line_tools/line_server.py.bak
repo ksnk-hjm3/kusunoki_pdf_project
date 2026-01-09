@@ -1,0 +1,64 @@
+# line_server.py
+# Flask ベースの簡易 Webhook サーバ（アンケート受信 → 最適3社返信）
+# 使い方:
+# 1) このファイルを上書き保存する
+# 2) プロジェクトルートに companies_master_final.csv を置く
+# 3) 環境変数 LINE_CHANNEL_ACCESS_TOKEN を設定する
+# 4) python line_server.py で起動（開発時は ngrok で公開してテスト）
+
+from flask import Flask, request, jsonify
+import os
+import logging
+
+# survey_reply_handler.py の handle_survey_request を使う
+# （同じプロジェクトに survey_reply_handler.py がある前提）
+from survey_reply_handler import handle_survey_request
+
+app = Flask(__name__)
+logging.basicConfig(level=logging.INFO)
+
+# セキュリティ用の簡易トークン（任意）
+# アンケート側から送るヘッダ 'X-SURVEY-TOKEN' にこの値を入れておくと簡易認証になります
+EXPECTED_SURVEY_TOKEN = os.environ.get("SURVEY_CALLBACK_TOKEN", None)
+
+@app.route("/survey_callback", methods=["POST"])
+def survey_callback():
+    """
+    期待される POST JSON 例:
+    {
+      "user_id": "Uxxxxxxxxxxxxxxxxxxxx",   # 任意。LINE userId を渡せば push 送信する
+      "answers": { ... }                    # 任意。今回は未使用でもOK
+    }
+    戻り値:
+      - user_id が LINE userId の場合: {"status":"sent_via_line_push"} または {"status":"failed","error":...}
+      - user_id が無い／LINE IDでない場合: {"reply_text": "..."} を返す（アンケート側で表示）
+    """
+    # 簡易認証（任意）
+    if EXPECTED_SURVEY_TOKEN:
+        token = request.headers.get("X-SURVEY-TOKEN", "")
+        if token != EXPECTED_SURVEY_TOKEN:
+            app.logger.warning("Invalid survey token")
+            return jsonify({"status": "unauthorized"}), 401
+
+    try:
+        payload = request.get_json(force=True)
+    except Exception as e:
+        app.logger.exception("Invalid JSON")
+        return jsonify({"status": "error", "error": "invalid_json", "detail": str(e)}), 400
+
+    # payload をそのまま survey_reply_handler に渡す
+    try:
+        result = handle_survey_request(payload)
+    except Exception as e:
+        app.logger.exception("Error handling survey request")
+        return jsonify({"status": "error", "error": str(e)}), 500
+
+    # handle_survey_request は push 送信済みなら status を返す、
+    # LINE userId が無い場合は {"reply_text": "..."} を返す設計
+    return jsonify(result), 200
+
+
+if __name__ == "__main__":
+    # 開発用: ポートやホストは必要に応じて変更
+    port = int(os.environ.get("PORT", 8000))
+    app.run(host="0.0.0.0", port=port, debug=False)

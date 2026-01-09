@@ -1,0 +1,40 @@
+# normalize_descriptions.py
+import csv
+from pathlib import Path
+
+IN = Path("companies_master_reclassified.csv")
+OUT = Path("companies_master_normalized.csv")
+
+templates = {
+    "医療機器メーカー": "医療機器の開発・製造を行い、医療現場で使われる製品を提供しています。",
+    "製薬・バイオ": "医薬品やバイオ製品の研究開発・製造を行い、治療に用いられる薬を提供しています。",
+    "医療IT・医療データ": "医療×ITでシステムやデータサービスを提供し、現場の業務効率化を支援します。",
+    "介護・福祉": "介護・福祉サービスを提供し、高齢者支援や在宅ケアの現場に関わる事業を展開しています。",
+    "医療卸・流通": "医薬品や医療機器の流通を担い、医療機関への安定供給を支えます。",
+    "衛生・感染対策": "衛生用品や感染対策製品を扱い、衛生管理を支える製品を提供しています。",
+    "ヘルスケア食品・栄養": "健康食品や栄養製品を展開し、日常の健康づくりを支援します。",
+}
+
+def jlen(s):
+    return len(s)
+
+def fit_text(text, industry):
+    text = (text or "").strip()
+    if jlen(text) < 30:
+        tpl = templates.get(industry)
+        if tpl:
+            text = tpl
+    if jlen(text) > 45:
+        text = text[:44] + "…"
+    return text
+
+with IN.open(encoding="utf-8") as f_in, OUT.open("w", encoding="utf-8", newline="") as f_out:
+    reader = csv.DictReader(f_in)
+    fieldnames = reader.fieldnames
+    writer = csv.DictWriter(f_out, fieldnames=fieldnames)
+    writer.writeheader()
+    for row in reader:
+        row["short_description"] = fit_text(row.get("short_description"), row.get("industry"))
+        writer.writerow(row)
+
+print("書き出し完了:", OUT)
