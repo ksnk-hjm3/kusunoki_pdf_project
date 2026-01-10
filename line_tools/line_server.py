@@ -51,22 +51,26 @@ def callback():
     return jsonify({}), 200
 
 
-@handler.add(MessageEvent, message=TextMessage)
-def handle_message(event):
-    try:
-        text = event.message.text if event.message and hasattr(event.message, "text") else ""
-        app.logger.info(f"handle_message called. text={text!r}, reply_token={event.reply_token}")
-        # Echo back the received text
-        line_bot_api.reply_message(event.reply_token, TextSendMessage(text=text))
-        app.logger.info("reply_message succeeded")
-    except Exception:
-        app.logger.error("Failed to reply message:")
-        traceback.print_exc()
+# Register message handler only if handler is initialized
+if handler is not None:
+    @handler.add(MessageEvent, message=TextMessage)
+    def handle_message(event):
+        try:
+            text = event.message.text if event.message and hasattr(event.message, "text") else ""
+            app.logger.info(f"handle_message called. text={text!r}, reply_token={event.reply_token}")
+            # Echo back the received text
+            line_bot_api.reply_message(event.reply_token, TextSendMessage(text=text))
+            app.logger.info("reply_message succeeded")
+        except Exception:
+            app.logger.error("Failed to reply message:")
+            traceback.print_exc()
+else:
+    # Fallback handler function to avoid NameError if referenced elsewhere
+    def handle_message(event):
+        app.logger.error("handle_message called but handler is not initialized")
 
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
-    # When running directly for development, use Flask's built-in server.
-    # In production, use a WSGI server (gunicorn) as recommended by Render.
     app.logger.info(f"Starting dev server on 0.0.0.0:{port}")
     app.run(host="0.0.0.0", port=port)
